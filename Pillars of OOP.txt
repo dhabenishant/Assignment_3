@@ -1,0 +1,22 @@
+ Pillars of OOP
+Encapsulation:
+way to combine data+method to use data
+example-laptop:s/w and accessories
+use:better use of object(utilization)
+
+Abstarction:
+way of hidding unwanted comlexity and giving only needed and simplest access/view.
+example-ATM/Website/Menu in hotel
+use:security,controlled access,simple access to needed.
+
+Inheritance:
+way of derriving properties from pre-existing to create something new.
+ex:software versions
+use:  reuse,standardization,enhancment,adaptation
+
+Polymorphism:
+Ability to exists in multiple forms
+overload:compiletime
+override:runtime
+ex:you
+use:more functionality or more adaptation as per change
